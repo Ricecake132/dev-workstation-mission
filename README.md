@@ -310,4 +310,4 @@ wsl -d Ubuntu -- /usr/bin/docker stop mission-web-proof
 - [x] 바인드 마운트 변경 반영 확인
 - [x] 볼륨 데이터 영속성 확인
 - [x] Git 설정 및 GitHub CLI 로그인
-- [ ] README와 모든 스크린샷을 GitHub 저장소에 커밋·푸시
+- [x] README와 모든 스크린샷을 GitHub 저장소에 커밋·푸시
